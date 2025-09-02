@@ -15,3 +15,4 @@ for n in range(1, produtos+1):
 print(f"valor total de produtos vendidos: {vtotal}")
 print(f"A quantidade de produtos vendidos com valor > 50 reais: {maior}")
 print(f"A quantidade de produtos vendidos com valor < 50 reais: {menor}")
+

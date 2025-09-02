@@ -10,6 +10,4 @@ if num>0:
 elif num<0:
     print(f"{num} é negativo")
 elif num==0:
-    print(f"{num} é igual a zero")
-
-    
+    print(f"{num} é igual a zero") 
